@@ -1,0 +1,35 @@
+.container {
+  max-width: 1440px;
+  height: 72px;
+  outline: 1px solid tomato;
+}
+.nav {
+  display: flex;
+}
+
+.pagesNavlist {
+  display: flex;
+  list-style: none;
+}
+
+.items {
+  margin-left: 50px;
+}
+
+.contacts {
+  display: flex;
+  list-style: none;
+  margin-left: auto;
+}
+
+.contactsItem {
+  margin-left: 50px;
+}
+
+.logo {
+  margin-left: 50px;
+  vertical-align: middle;
+}
+
+.logo2 {
+}
